@@ -43,6 +43,7 @@ import static org.mockito.Mockito.when;
  * which is essential to verifying content encoding/decoding with different format types (JSON vs XML, compressed vs
  * uncompressed).
  *
+ *
  * @author Tomasz Bak
  */
 public class EurekaClientServerRestIntegrationTest {
